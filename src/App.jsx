@@ -1,12 +1,12 @@
 import { PublicRoute } from "./Routes/PublicRoute"
-import {BrowserRouter} from "react-router-dom"
+import {HashRouter} from "react-router-dom"
 
 function App(){
   return(
     <div>
-      <BrowserRouter>
+      <HashRouter>
       <PublicRoute/>
-      </BrowserRouter>
+      </HashRouter>
     
     </div>
   )
