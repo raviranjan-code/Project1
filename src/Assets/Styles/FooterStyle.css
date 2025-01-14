@@ -1,0 +1,13 @@
+footer {
+    padding: 50px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  footer p {
+    margin-bottom: 10px;
+    margin-right: 20px;
+    font-size: 16px;
+  }
