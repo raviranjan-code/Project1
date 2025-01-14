@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom"
+import { Route, Routes } from "react-router-dom"
 import { HomeWrapper } from "../Layouts/Wrapper/HomeWrapper"
 import { LogInWrapper } from "../Layouts/Wrapper/LogInWrapper"
 import { StdRegWrapper } from "../Layouts/Wrapper/StdRegWrapper"
